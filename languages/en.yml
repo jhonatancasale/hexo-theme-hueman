@@ -1,6 +1,8 @@
 index:
   home: 'Home'
   about: 'About'
+  contact: 'Contact'
+  resume: 'Resume'
   search: 'Search'
   archive: 'archive'
   category: 'category : '
