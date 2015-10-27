@@ -1,6 +1,8 @@
 index:
   home: 'Home'
   about: 'Sobre'
+  contact: 'Contato'
+  resume: 'Currículo'
   search: 'Busca'
   archive: 'arquivo'
   category: 'categoria : '
