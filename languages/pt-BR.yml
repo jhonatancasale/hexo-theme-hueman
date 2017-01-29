@@ -4,9 +4,12 @@ index:
   contact: 'Contato'
   resume: 'Currículo'
   search: 'Busca'
-  archive: 'arquivo'
-  category: 'categoria : '
-  uncategorized: 'sem categoria'
+  archive: 'Arquivo'
+  category: 'Categoria : '
+  uncategorized: 'Sem categoria'
+  projects: 'Projetos'
+  readings: 'Leituras'
+  diary: 'Diario'
   tag: 'tag : '
 nav:
   current_page:
@@ -15,14 +18,15 @@ nav:
     other: 'de %d'
 sidebar:
   follow: 'seguir'
-  newer: 'novos'
-  older: 'antigos'
+  newer: 'mais novos'
+  older: 'mais antigos'
   recents: 'recentes'
   archives: 'arquivos'
   categories: 'categorias'
   links: 'links'
   tags: 'tags'
   tag_cloud: 'tag cloud'
+  Self-Improvement: 'Desenvolvimento Pessoal'
 article:
   comments: 'Comentários'
   share: 'Compartilhar'
